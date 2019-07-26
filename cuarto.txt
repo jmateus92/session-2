@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 se modifico cuarto.txt
+=======
+# Hola cuatro.txt
+>>>>>>> f11e2560afeae57fbc23fd7e172ad7cbfbf1b205
